@@ -1,0 +1,17 @@
+body {
+    background-color: paleturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: crimson
+}
+
+a {
+    color: crimson;
+}
+
+a:hover {
+    color: #000;
+}
+

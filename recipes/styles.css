@@ -1,0 +1,18 @@
+img {
+    width: 300px;
+    height: auto;
+    padding: 0 230px;
+    border: 2px black solid;
+    border-radius: 6%;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    background-color: antiquewhite;
+    
+}
+
+h1, h3, p {
+    text-align: center;
+}
